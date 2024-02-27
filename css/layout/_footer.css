@@ -1,0 +1,25 @@
+.ftr {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-footer > div > img {
+    width: 50px;
+    height: 50px;
+}
+
+.text-ftr {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.logo-footer > div, .logo-footer {
+    display: flex;
+}
+
+.logo-footer > div > p {
+    font-size: 30px;
+    margin: 10px;
+}
